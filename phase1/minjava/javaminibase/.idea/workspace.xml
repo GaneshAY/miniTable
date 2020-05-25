@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92fd9fbd-aaf0-4ac1-bdf4-cf5d4eec1ff7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1WxeeYO7wTEMbufKjNjuTKOBVnH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92fd9fbd-aaf0-4ac1-bdf4-cf5d4eec1ff7" name="Default Changelist" comment="" />
+      <created>1580095770567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580095770567</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="780" y="433" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1580095832489">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="780" y="433" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1580095832489" />
+    <state x="723" y="278" key="FileChooserDialogImpl" timestamp="1580600497052">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="723" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580600497052" />
+    <state x="446" y="179" key="SettingsEditor" timestamp="1580626230946">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="432" y="186" key="SettingsEditor/0.0.1858.1080@0.0.1858.1080" timestamp="1580095958111" />
+    <state x="446" y="179" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580626230946" />
+    <state x="658" y="355" key="com.intellij.ide.util.TipDialog" timestamp="1580703857646">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="637" y="369" key="com.intellij.ide.util.TipDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1580096345982" />
+    <state x="658" y="355" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580703857646" />
+    <state x="543" y="177" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580704448241">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="543" y="177" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1580704448241" />
+    <state x="667" y="154" width="586" height="732" key="find.popup" timestamp="1580704460772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="154" width="586" height="732" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580704460772" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1580602247883">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580602247883" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1580637653421">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580637653421" />
+  </component>
+</project>
